@@ -1,0 +1,11 @@
+.msj {
+  height: 21px;
+}
+
+section {
+  min-height: 100vh;
+}
+
+form {
+  max-width: min-content !important;
+}
